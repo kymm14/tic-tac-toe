@@ -24,7 +24,7 @@ Está creado con Bootstrap con temática de Toy Story.
 ## Deploy 🚀
 
 <div align="center">
-    <a href="https://www.google.com"><strong>Url a producción </strong></a>🚀🚀🚀
+    <a href="https://kymm14.github.io/tic-tac-toe/"><strong>Url a producción </strong></a>🚀🚀🚀
 </div>
 
 ## Stack
